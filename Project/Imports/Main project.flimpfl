@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" xml:lang="en-us" SourceControlBound="true" Comment="This template contains several starter topics and other files designed for an online Knowledge Base. If you intend to use Flare to generate an online Knowledge Base, this project demonstrates one approach you may consider. This template starts you out with an HTML5 target and a skin that has responsive output enabled. This means the content display changes automatically depending on the width of the screen. You can add other kinds of targets if you like." MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" SourceControlProviderType="Git" ProjectGuid="6ec33605-13ba-4722-b6ae-ebb9c6746072" MadCapCentralId="4426" IncludePattern="*.htm;*.html" AutoExcludeNonTaggedFiles="false" IncludeLinkedFiles="false" DeleteStale="false" DeleteUnreferenced="false" AutoSync="true" ParentMadCapCentralId="4425" LastImport="2017-11-08T11:36:35.2264929-08:00">
+    <Files>
+        <Url Source="file:///C:/Users/mcolon/Documents/My Projects/flare-integration/Main project flare integration/Main project.flprj" AbsoluteSource="file:///C:/Users/mcolon/Documents/My Projects/flare-integration/Main project flare integration/Main project.flprj" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles>
+        <Url Source="../../../Main project flare integration/Content/Endnotes.html" AbsoluteSource="file:///C:/Users/mcolon/Documents/My Projects/flare-integration/Main project flare integration/Content/Endnotes.html" />
+        <Url Source="../../../Main project flare integration/Content/Glossarename.html" AbsoluteSource="file:///C:/Users/mcolon/Documents/My Projects/flare-integration/Main project flare integration/Content/Glossarename.html" />
+        <Url Source="../../../Main project flare integration/Content/indexTopic.htm" AbsoluteSource="file:///C:/Users/mcolon/Documents/My Projects/flare-integration/Main project flare integration/Content/indexTopic.htm" />
+        <Url Source="../../../Main project flare integration/Content/Main topic.htm" AbsoluteSource="file:///C:/Users/mcolon/Documents/My Projects/flare-integration/Main project flare integration/Content/Main topic.htm" />
+    </CollectedSourceFiles>
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="../../Content/Endnotes.html" TimeStamp="11/8/2017 10:29:38 AM" />
+        <Url Source="../../Content/Glossarename.html" TimeStamp="11/8/2017 10:29:38 AM" />
+        <Url Source="../../Content/indexTopic.htm" TimeStamp="11/8/2017 11:01:11 AM" />
+        <Url Source="../../Content/Main topic.htm" TimeStamp="11/8/2017 10:29:38 AM" />
+    </GeneratedFiles>
+</CatapultProject>
